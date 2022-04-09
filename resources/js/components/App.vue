@@ -125,9 +125,9 @@
                     >
                         <div class="bg-white py-2 collapse-inner rounded">
                             <h6 class="collapse-header">Example Pages</h6>
-                            <a class="collapse-item" href="login.html">Login</a>
-                            <a class="collapse-item" href="register.html"
-                                >Register</a
+                            <router-link :to="{name:'loginVue'}" class="collapse-item" href="login.html">Login</router-link>
+                            <router-link :to="{name:'registerVue'}" class="collapse-item" href="register.html"
+                                >Register</router-link
                             >
                             <a class="collapse-item" href="404.html"
                                 >404 Page</a
