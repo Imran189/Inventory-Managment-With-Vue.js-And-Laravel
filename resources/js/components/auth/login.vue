@@ -69,7 +69,7 @@
                                         <router-link
                                         :to="{name: 'forgetVue'}"
                                             class="font-weight-bold small"
-                                            >Forget Password!</router-link
+                                            >Forget Password</router-link
                                         >
                                     </div>
                                     <div class="text-center"></div>
