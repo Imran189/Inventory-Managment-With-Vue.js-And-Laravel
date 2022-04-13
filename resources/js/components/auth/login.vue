@@ -62,7 +62,7 @@
                                         <router-link
                                         :to="{name:'registerVue'}"
                                             class="font-weight-bold small"
-                                            >Create an Account!</router-link
+                                            >Create an Account!!</router-link
                                         >
                                     </div>
                                     <div class="text-center">
